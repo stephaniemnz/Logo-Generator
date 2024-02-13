@@ -24,7 +24,7 @@ function generateLogo() {
       {
         type: 'list',
         name: 'shape',
-        message: 'Select a shape.',
+        message: '  ',
         choices: ['circle', 'triangle', 'square'],
       },
     

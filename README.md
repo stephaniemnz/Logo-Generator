@@ -14,8 +14,7 @@ In the terminal, run node index, then answere the following question when propte
 - Select a shape.
 Once all questions have been aswered a logo.svg file will appear in your files. 
 
-Video tutorial link: 
-
+Tutorial Video link: https://app.screencastify.com/v3/watch/d00MZR2gNiSEsZewMYUF 
 
 ![alt text](examples/image.png)
 
