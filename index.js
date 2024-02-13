@@ -9,7 +9,7 @@ function generateLogo() {
       {
         type: 'input',
         name: 'name',
-        message: 'What are your company initials?',
+        message: 'Input up to 3 initials for your company name.',
       },
       {
         type: 'input',
@@ -19,7 +19,7 @@ function generateLogo() {
       {
         type: 'input',
         name: 'textColor',
-        message: 'text color?',
+        message: 'What color would you like the text to be?',
       },
       {
         type: 'list',
